@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Q18_MethodCalling {
 	public static void findLargestNumber() {
 		Scanner input = new Scanner(System.in);
-		System.out.println("Enter your first number");
+		System.out.println("Enter your first number n1");
 		int n1 = input.nextInt();
 		System.out.println("Enter your second number");
 		int n2 = input.nextInt();
